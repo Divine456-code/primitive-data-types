@@ -265,7 +265,7 @@ let targetString2 = "i am the second best, you are the first best!"
 //
 ////////////////////// YOUR CODE BELOW THIS LINE ///////////////////////
 
-testString2 = testString2.replace('I am the first sentence.  You are the second sentence', 'I am the second best,  you are the first best!')
+testString2 = testString2.replace('I am the first sentence.  You are the second sentence', 'I am the second best,  you are the first best!');
 
 ////////////////////////////////////////////////////////////////////////
 
@@ -285,7 +285,7 @@ let escapedString
 //
 ////////////////////// YOUR CODE BELOW THIS LINE ///////////////////////
 
- escapedString = "My professor said: \"Study hard and you will succeed\" \nI replied: \"Thanks for the tip!\""
+ escapedString = "My professor said: \"Study hard and you will succeed\" \nI replied: \"Thanks for the tip!\"";
 
 ////////////////////////////////////////////////////////////////////////
 
